@@ -1,0 +1,2 @@
+1. Crear un header responsivo con 5 links
+Usar bootdtrsp como sistemas de guias de estilos
